@@ -23,7 +23,7 @@ This project focuses on simplicity, clean code, and ease of use.
 ---
 ## 📸 Screenshot
 
-![SwiftURL Screenshot](assets/screenshot.png)
+![SwiftURL Screenshot](public/Screenshotpre.png)
 
 ---
 
