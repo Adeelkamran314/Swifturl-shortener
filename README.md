@@ -1,36 +1,72 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🔗 SwiftURL – URL Shortener
 
-## Getting Started
+SwiftURL is a simple and fast URL shortener that converts long links into short, clean, and share-friendly URLs.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ✨ Project Overview
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Sharing long URLs can be inconvenient and messy. **SwiftURL** solves this problem by generating short URLs instantly, making link sharing easier and more efficient.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+This project focuses on simplicity, clean code, and ease of use.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🚀 Features
 
-To learn more about Next.js, take a look at the following resources:
+- Convert long URLs into short URLs  
+- Clean and minimal user interface  
+- Fast and lightweight performance  
+- Easy to use  
+- Beginner-friendly project structure  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
+## 📸 Screenshot
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+![SwiftURL Screenshot](assets/screenshot.png)
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🖥️ How It Works
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. The user enters a long URL  
+2. The system generates a unique short URL  
+3. The short URL redirects to the original link  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Node.js  
+- **Framework:** Next.js  
+- **Database:** MongoDB  
+
+---
+
+## 📂 Use Cases
+
+- Social media link sharing  
+- Marketing and promotional links  
+- Academic or learning projects  
+- Personal portfolio showcase  
+
+---
+
+## 🌟 Why SwiftURL?
+
+- Simple logic and clean design  
+- Easy to understand codebase  
+- Practical real-world application  
+- Ideal for beginners and portfolio projects  
+
+
+---
+
+
+**Rahul Patil**  
+GitHub: https://github.com/Rahul-9307  
+
+---
+
+⭐ If you find this project useful, please consider giving it a star!
